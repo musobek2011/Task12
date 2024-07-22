@@ -7,5 +7,9 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("solom");
+        System.out.println("solom");
+        System.out.println("solom");
+        System.out.println("solom");
+        System.out.println("solom");
     }
 }
